@@ -20,7 +20,7 @@ section{
     font-size: 20px;
 }
 .half-width h1{
-    font-size: 40px;
+    font-size: 30px;
 }
 .half-width img{
     width: 70%;
@@ -96,5 +96,5 @@ section{
     text-align: center;
     font-size: 30px;
     
-    color: tomato;
+    color: whitesmoke;
 }
