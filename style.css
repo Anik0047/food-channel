@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.divide{
+    display: flex;
+    background-image: url(image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.half-width{
+    width: 50%;
+    margin-left: 100px;
+    padding-left: 40px;
+}
+.half-width img{
+    width: 50%;
+}
+.half-width p{
+    font-size: 15px;
+}
+.head-color{
+    color: tomato;
+    font-size: 50px;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 20px;
+   background-color: black;
+}
