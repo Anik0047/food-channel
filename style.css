@@ -19,6 +19,9 @@ section{
 .half-width p{
     font-size: 20px;
 }
+.half-width h1{
+    font-size: 40px;
+}
 .half-width img{
     width: 70%;
 }
@@ -42,7 +45,7 @@ section{
     margin-right: 30px;
 }
 .second-back-image{
-    background-image: url(image/Frame\ 58.jpg);
+    background-image: url(image/Frame\ 59.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -60,12 +63,20 @@ section{
 }
 
 
-#border{
+#border-one{
     border-radius: 20px;
     padding: 10px;
 
     width: 2in;
-    height: 2in;
- 
+    height: 2in; 
+}
+.border-second{
+    margin-top: 30px;
+  margin-left: 100px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 50px;
+    border:10px solid wheat;
+    border-radius: 15px;
     
 }
